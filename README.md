@@ -1,6 +1,6 @@
 # Hi, I'm Maciej (Maciek) Cieslak 👋
 
-**Senior Software Engineer · Technical Lead · PhD · Glider Pilot**
+**Lead Analysis Software Engineer · Engineering Tooling · Technical Leadership · PhD · ASW20C Pilot**
 
 I build production-grade developer tooling, desktop applications, and simulation platforms — primarily in complex scientific and engineering domains. Based in Coventry, UK.
 
@@ -49,10 +49,12 @@ Currently at [ZeBeyond](https://www.zebeyond.com/), where I:
 |---|---|
 | 🏗️ | Co-architected a **1M+ line** compiled MATLAB application shipped to 10 enterprise clients |
 | 🤖 | Pioneered AI-assisted engineering workflows — **5× productivity** gains in a production team |
+| ⚡ | Developed **FRM**, a reduced-order dynamics simulation tool delivering a **60× speed-up** (90 min → 90 sec) while maintaining 90% accuracy against high-fidelity Simpack models |
+| 🛠️ | Delivered **LHAS** (daily use by 20 vehicle dynamics engineers) and contributed to **ATOM** (used by 500 engineers across JLR for vehicle build traceability) |
 | 👥 | Led teams of up to **11 engineers** across chassis, body, and powertrain disciplines at JLR |
 | 🔬 | PhD in automotive engineering — ANN-based ride comfort prediction, published in [Neural Computing and Applications](https://link.springer.com/article/10.1007/s00521-019-04351-1) |
 | 🚗 | Hands-on vehicle testing on proving grounds and public roads; JLR Class 3 & 3PG certified |
-| 🛩️ | SPL Glider Pilot with TMG and rating |
+| 🛩️ | SPL Glider Pilot — ASW20C owner, including hands-on maintenance of aircraft and avionics |
 
 ---
 
@@ -60,11 +62,11 @@ Currently at [ZeBeyond](https://www.zebeyond.com/), where I:
 
 After a PhD co-funded by HORIBA MIRA — where I built signal processing pipelines and trained ANNs to predict human ride comfort from biometric and vibration data — I moved into industry-facing software engineering.
 
-At **JLR (Jaguar Land Rover)** I led data science and software architecture teams, building everything from Simulink analysis tools and MATLAB desktop apps to GCP/BigQuery data pipelines and interactive web dashboards. I defined Git workflows, code review culture, CI/CD infrastructure, and mentoring programmes for teams starting from zero engineering practice.
+At **JLR (Gaydon)** I led data science and software architecture teams, delivering named production tools used daily across the organisation: **LHAS** for vehicle dynamics test data analysis, **FRM** for rapid reduced-order simulation (a 60× speed-up over full Simpack sweeps), and contributions to **ATOM**, a vehicle build tracking platform with 500 users. I defined Git workflows, code review culture, CI/CD infrastructure, and mentoring programmes for teams starting from zero engineering practice.
 
-At **ZeBeyond** I've gone deeper into systems design, plug-in architecture, and REST API development — and made AI-assisted development a core part of how the team operates day-to-day.
+At **ZeBeyond** I've gone deeper into systems design, plugin architecture, and REST API development — and made AI-assisted development a core part of how the team operates day-to-day.
 
----
+Associate Fellow of the Higher Education Academy (HEA).
 
 ## Selected work areas
 
@@ -86,4 +88,4 @@ CI/CD & DevEx            ██████████████████�
 
 ---
 
-*Writing clean code in MATLAB before it was cool. Introducing AI tooling to engineering teams before it was standard.*
+*Writing clean code in MATLAB before it was cool. Shipping analysis tools that engineers actually use. Introducing AI tooling to engineering teams before it was standard.*
