@@ -10,7 +10,7 @@ I build production-grade developer tooling, desktop applications, and simulation
 
 I sit at the intersection of **rigorous engineering practice** and **complex scientific domains** — turning messy, organically-grown codebases and ad hoc scripts into maintainable, scalable software that ships.
 
-Currently at [ZeBeyond](https://www.zebeyond.co.uk/), where I:
+Currently at [ZeBeyond](https://www.zebeyond.com/), where I:
 - Co-architected **ePOP Pro**, a 1M+ line compiled MATLAB desktop application deployed to 10 enterprise clients — zero end-user licence required
 - Built a multi-domain physics engine covering mechanical, thermal, and electrical modelling
 - Contributed to an in-house **Simulink-to-MATLAB transpiler** for standalone model deployment
@@ -81,7 +81,7 @@ CI/CD & DevEx            ██████████████████�
 ## Elsewhere
 
 - 📄 [LinkedIn](https://linkedin.com/in/cieslakm)
-- 📚 [Google Scholar](https://scholar.google.com/) — peer-reviewed publications in ride comfort and ML
+- 📚 [Google Scholar]([https://scholar.google.com/](https://scholar.google.com/citations?user=GZ7O_dkAAAAJ&hl=pl)) — peer-reviewed publications in ride comfort and ML
 - 📧 cieslak.maciek@gmail.com
 
 ---
