@@ -84,6 +84,7 @@ CI/CD & DevEx            ██████████████████�
 
 - 📄 [LinkedIn](https://linkedin.com/in/cieslakm)
 - 📚 [Google Scholar](https://scholar.google.com/citations?user=GZ7O_dkAAAAJ&hl=pl) — peer-reviewed publications in ride comfort and ML
+- 📄 [Personal Website](https://cieslak.uk)
 
 ---
 
